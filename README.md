@@ -1,4 +1,4 @@
-# 🔑 Weakpass-skill
+# 🔑 Weakpass-Skill
 Give your AI agent access to 25 billion leaked passwords
 
 ## 💪 Getting Started
